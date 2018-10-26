@@ -1,0 +1,4 @@
+<manifest>
+<version major = "1" minor = "1" build = "4" revision = "19"/>
+<distr source = "http://css-st-upd.scartel.dc/dists/yotaplaydesktop/mac/latest/Update.bin" hash = "d7d05d039ea4e4cd2c407c0c5f602d6b" update = "Update_1.1.4.sh" commandline = ""/>
+</manifest>
